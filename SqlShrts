@@ -1,0 +1,62 @@
+1.General Shortcuts
+SNO	SHORTCUTKEY	DESCRIPTION
+1	Ctrl+N                        	           New Query Window for Current Database
+2	Ctrl+O                        	           Open Saved .sql File
+3	Ctrl+S            	           Save Current Query Window
+4	Ctrl+Shift+S            	           Save All Documents
+5	Ctrl+P            	           Print
+6	Ctrl+z            	           Undo
+7	Ctrl+Y            	           Redo
+8	Ctrl+x            	           Cut
+9	Ctrl+C            	           Copy
+10	Ctrl+V	           Paste
+11	Ctrl+A	           Select All
+12	Ctrl+tab	           Toggle between opened tabs
+2.Find and Replace
+SNO	SHORTCUTKEY	DESCRIPTION
+13	Ctrl+G                        	           Go To specified Line Number
+14	Ctrl+F                        	           Find Word in Current/Entire All Opened Documents
+15	Ctrl+H                        	           Replace
+3.Text Formatting
+SNO	SHORTCUTKEY	DESCRIPTION
+16	Ctrl+Shift+U            	           Convert Uppercase for Selected Text
+17	Ctrl+Shift+L            	           Convert Lowercase for Selected Text
+18	Ctrl+k and Ctrl+\            	           Delete Horizontal White Space at the end of the Word
+19	Ctrl+k and Ctrl+C            	           Comment Current Line
+20	Ctrl+k and Ctrl+U            	           Uncomment current Line
+21	Ctrl+Alt+Space            	           Context Help
+22	Alt+RightArrow            	           Complete Current Word
+23	Crl+K and Crl+x            	           Insert Code Snippet
+24	Ctrl+k and Ctrl+S            	           Surround With Code Snippet
+4.Sql server management studio window shortcut keys
+SNO	SHORTCUTKEY	DESCRIPTION
+25	Ctrl+Alt+L            	           Show Solution Explorer
+26	Ctrl+Alt+T            	           Show Template Explorer
+27	Ctrl+Alt+o            	           Show Output Window
+28	Ctrl+Alt+K            	           Open Task List
+29	Ctrl+Alt+X            	           Open Toolbox
+30	Ctrl+Alt+R            	           Open Web browser in Sql server
+31	F8            	           Object Explorer
+32	F7            	           Object Explorer Details
+33	Alt+Shift+Enter            	           Toggle Full Screen on and off
+34	Ctrl+\ and Ctrl+E	           Show Error List
+35	Ctrl+K and Ctrl+B	           Open Code Snippets Manager
+36	Ctrl+K and Ctrl+W	           open Bookmark Window
+5.Query Shortcut Keys
+SNO	SHORTCUTKEY	DESCRIPTION
+37	F5            	           Execute Query
+38	Ctrl+E            	           Execute Query
+39	Alt+X            	           Execute Query
+40	Alt+break            	           Stop Current Executing query
+41	Alt+ScrollLock            	           Stop Current Executing Query
+42	Ctrl+F5            	           Execute Query Without running Results(Parse)
+43	Ctrl+L            	           Display Estimated Execution Plan
+44	Ctrl+M                        	           Display Actual Execution Plan
+45	Ctrl+Shift+Q            	           Construct Query in Design Window
+46	Ctrl+Alt+P	           Trace Query in sql profiler
+6.Query output Shortcut keys
+SNO	SHORTCUTKEY	DESCRIPTION
+47	Ctrl+T                        	           Display Query Output in Text
+48	Ctrl+D            	           Display Query Output in Grid
+49	Ctrl+Shift+F                        	           Save Query output in File with .rpt Extension
+50	Ctrl+R            	           Toggle Result Window show or hide
